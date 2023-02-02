@@ -1,0 +1,101 @@
+{
+    "data": [
+     {
+      "angle": "152",
+      "direccion": "ida",
+      "dt_server": "2022-12-23 01:35:08",
+      "dt_tracker": "2022-12-23 01:35:00",
+      "icon": "img/markers/objects/land-truck.svg",
+      "imei": "868926038019458",
+      "interno": "106",
+      "lat": "-38.73543",
+      "lng": "-62.22075",
+      "name": "V - 106\t"
+     },
+     {
+      "angle": "140",
+      "direccion": "ida",
+      "dt_server": "2022-12-23 01:35:45",
+      "dt_tracker": "2022-12-23 01:35:34",
+      "icon": "img/markers/objects/land-truck.svg",
+      "imei": "868926038017197",
+      "interno": "109",
+      "lat": "-38.70654",
+      "lng": "-62.26656",
+      "name": "V - 109\t"
+     },
+     {
+      "angle": "298",
+      "direccion": "ida",
+      "dt_server": "2022-12-23 00:32:20",
+      "dt_tracker": "2022-12-23 00:32:14",
+      "icon": "data/user/objects/649_d187130734e2e017a3ef0df957ed4cef.svg",
+      "imei": "868926038078496",
+      "interno": "102",
+      "lat": "-38.68672",
+      "lng": "-62.222",
+      "name": "BOXER - OIU 117"
+     },
+     {
+      "angle": "314",
+      "direccion": "vuelta",
+      "dt_server": "2022-12-23 01:35:56",
+      "dt_tracker": "2022-12-23 01:35:38",
+      "icon": "img/markers/objects/land-truck.svg",
+      "imei": "866795034360147",
+      "interno": "113",
+      "lat": "-38.73764",
+      "lng": "-62.21863",
+      "name": "V - 113\t"
+     },
+     {
+      "angle": "144",
+      "direccion": "ida",
+      "dt_server": "2022-12-23 00:38:06",
+      "dt_tracker": "2022-12-23 00:28:28",
+      "icon": "img/markers/objects/land-truck.svg",
+      "imei": "868926038077803",
+      "interno": "114",
+      "lat": "-38.68847",
+      "lng": "-62.33622",
+      "name": "CARGO NQD 998"
+     },
+     {
+      "angle": "112",
+      "direccion": "ida",
+      "dt_server": "2022-12-22 20:48:36",
+      "dt_tracker": "2022-12-22 20:48:28",
+      "icon": "img/markers/objects/land-truck.svg",
+      "imei": "868926038087570",
+      "interno": "115",
+      "lat": "-38.7602",
+      "lng": "-62.2712",
+      "name": "ILN 957"
+     },
+     {
+      "angle": "90",
+      "direccion": "ida",
+      "dt_server": "2022-12-23 01:14:34",
+      "dt_tracker": "2022-12-23 01:06:26",
+      "icon": "img/markers/objects/land-truck.svg",
+      "imei": "868926037979496",
+      "interno": "116",
+      "lat": "-38.89437",
+      "lng": "-63.13869",
+      "name": "V - 116\t"
+     },
+     {
+      "angle": "170",
+      "direccion": "ida",
+      "dt_server": "2022-12-23 01:35:53",
+      "dt_tracker": "2022-12-23 01:35:48",
+      "icon": "img/markers/objects/land-truck.svg",
+      "imei": "866854051637992",
+      "interno": "204",
+      "lat": "-38.85339",
+      "lng": "-62.08506",
+      "name": "V - 204"
+     }
+    ],
+    "status": "ok"
+   }
