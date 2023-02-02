@@ -1,4 +1,5 @@
 const geolib = require('geolib');
+const fetch = require('node-fetch');
 const datos = require('../data');
 
 const index = (req, res) => {
